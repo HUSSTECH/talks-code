@@ -1,0 +1,4 @@
+google-cloud-bigquery==0.31.0
+google-auth-oauthlib==0.2.0
+pytz==2018.3
+sqlpy==0.3.0
